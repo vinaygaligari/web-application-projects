@@ -1,5 +1,6 @@
 # web-application-projects
 How to Run the Project
+
 This JSP-based web applications was developed using the following technologies:
 •	Front End: HTML, CSS, JavaScript
 •	Application Logic: Java Server Pages (JSP)
