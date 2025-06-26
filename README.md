@@ -2,11 +2,17 @@
 How to Run the Project
 
 This JSP-based web applications was developed using the following technologies:
+
 •	Front End: HTML, CSS, JavaScript
+
 •	Application Logic: Java Server Pages (JSP)
+
 •	Back End: SQL (MySQL)
+
 Software Requirements
+
 •	XAMPP (includes Apache Tomcat and MySQL servers)
+
 •	Visual Studio Code (as the code editor)
 
 Steps to Run the Project
